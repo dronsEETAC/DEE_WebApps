@@ -9,6 +9,9 @@ Each of the modules in this block has a GitHub repo where you can find the code 
 * *Mobile app*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-MobileApp-brightgreen.svg)](https://github.com/dronsEETAC/IonicVueMobileAppDEE) a WebApp with a reduced set of functionalities that can be operated from a mobile phone or Tablet connected to internet.
 
+* *Dashboard Games*:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DashboardGames-brightgreen.svg)](https://github.com/dronsEETAC/DashboardGames) a WebApp to control a variety of games, including Drone Circus, a Controllers Game and Follow Me Game.
+
 ## 2. Node, Vue and Ionic
 In order to run and contribute to the modules in this block, you need to install Node.js (version v16.14.2) and @vue/cli version 4.5.15 and @ionic/cli (in case of the Mobile app). We recommend Visual Code as IDE for development in Vue.
 ## 3. Secure WebApps
