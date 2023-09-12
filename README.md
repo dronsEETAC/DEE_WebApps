@@ -4,7 +4,7 @@ The modules in this block are front-end desktop modules in the form of WebApps, 
 WebApps are more accessible than Desktop applications. You do not need to install anything in your computer or mobile device. You only need a browser and internet connection. Using these WebApps, visitors to the DronLab will be able to interact easily with our drones using their mobile devices.    
 Each of the modules in this block has a GitHub repo where you can find the code together with a description, installation instructions and demos. These are the repos:
 * *DashApp*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DashApp-brightgreen.svg)](https://github.com/dronsEETAC/DashboardVueDEE) allows the global control of the system (arm, take-off and guide the drone, define flight plans, process data coming from the drone, etc.).
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DashApp-brightgreen.svg)](https://github.com/dronsEETAC/DashApp) allows the global control of the system (arm, take-off and guide the drone, define flight plans, geofence configuration, process data coming from the drone, etc.).
    
 * *Mobile app*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-MobileApp-brightgreen.svg)](https://github.com/dronsEETAC/IonicVueMobileAppDEE) a WebApp with a reduced set of functionalities that can be operated from a mobile phone or Tablet connected to internet.
