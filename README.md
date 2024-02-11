@@ -38,10 +38,14 @@ The WebApps in this block are currently being served in a server in the Campus, 
 
 ## 6. Supporting materials   
 A tutorial (in Spanish) on Vue, also focused in how to develop web app for the ecosystem:      
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_vue_-pink.svg)](https://www.youtube.com/watch?v=XCn9stPZ4iY&list=PL64O0POFYjHoeq8dfP-XYPCoNlehSiR_B)
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_vue_-pink.svg)](https://www.youtube.com/watch?v=XCn9stPZ4iY&list=PL64O0POFYjHoeq8dfP-XYPCoNlehSiR_B)      
+The code developed in this tutorial can be found here:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutorial_vue_-blue.svg)](https://github.com/dronsEETAC/TutorialVue.git)
      
 A tutorial (in Spanish) on Vue + Ionic, also focused in how to develop mobile web app for the ecosystem:      
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_vue_ionic-pink.svg)](https://www.youtube.com/playlist?list=PLT01gtFyuSL5MKxNFBtEkah45xEJqqCCn)
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_vue_ionic-pink.svg)](https://www.youtube.com/playlist?list=PLT01gtFyuSL5MKxNFBtEkah45xEJqqCCn)     
+The code developed in this tutorial can be found here:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutorial_vue_ionic-blue.svg)](https://github.com/dronsEETAC/TutorialVue.git)
 
 A tutorial (in Spanish) on how to implement secure WebApps:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_Secure_WebApps-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4qbgXn6jheozHsjU4GRCqtv)
