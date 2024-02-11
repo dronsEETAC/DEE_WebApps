@@ -44,8 +44,6 @@ The code developed in this tutorial can be found here:
      
 A tutorial (in Spanish) on Vue + Ionic, also focused in how to develop mobile web app for the ecosystem:      
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_vue_ionic-pink.svg)](https://www.youtube.com/playlist?list=PLT01gtFyuSL5MKxNFBtEkah45xEJqqCCn)     
-The code developed in this tutorial can be found here:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-code_tutorial_vue_ionic-blue.svg)](https://github.com/dronsEETAC/TutorialVue.git)
 
 A tutorial (in Spanish) on how to implement secure WebApps:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_Secure_WebApps-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4qbgXn6jheozHsjU4GRCqtv)
