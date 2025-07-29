@@ -50,3 +50,8 @@ A tutorial (in Spanish) on Vue + Ionic, also focused in how to develop mobile we
 
 A tutorial (in Spanish) on how to implement secure WebApps:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-video_tutorial_Secure_WebApps-pink.svg)](https://www.youtube.com/playlist?list=PLyAtSQhMsD4qbgXn6jheozHsjU4GRCqtv)
+
+A tutorial (in Spanish) on how to implement WebApps using Flask:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Flask_WebApps-pink.svg)](https://github.com/dronsEETAC/WebAppFlask)
+
+
